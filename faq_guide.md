@@ -1,3 +1,4 @@
+
 ## Add questions
 
 To insert a question add an intent. An intent in context of a chatbot refers to the goal the customer has in mind when typing in a question or comment. While entity refers to the modifier the customer uses to describe their issue, intent is what they really mean. To add intent in faq.yml, just make an entry with the following syntax:
