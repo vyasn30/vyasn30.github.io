@@ -6,7 +6,7 @@ Welcome to the account deletion page for QR Scanner Attendance App. We're commit
 
 To request the deletion of your account and associated data, please follow these steps:
 
-1. Send an email to [contact@qrscanner-attendance.com](mailto:contact@qrscanner-attendance.com) with the subject line "Account Deletion Request"
+1. Send an email to [contact@qrscanner-attendance.com](mailto:vyasn30@outlook.com) with the subject line "Account Deletion Request"
 
 2. In the email body, please provide:
    - Your Guard Name (as registered in the app)
